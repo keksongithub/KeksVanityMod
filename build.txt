@@ -1,4 +1,4 @@
 displayName = Vanity Contest
 author = Keks
-version = 1.0.14
+version = 1.0.15
 homepage = https://forums.terraria.org/index.php?threads/vanity-contest-mod.88682/#post-1954366
