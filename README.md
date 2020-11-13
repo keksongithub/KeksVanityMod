@@ -21,7 +21,7 @@ Keks#0001
 
 ## Authors
 
-* **myself** - *programming* - [Keks](https://github.com/xKeks)
+* **myself** - *programming/sprite work* - [Keks](https://github.com/xKeks)
 
 See also the list of [contributors](https://github.com/xKeks/VanityContest/contributors) who participated in this project.
 
