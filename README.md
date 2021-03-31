@@ -24,8 +24,3 @@ Keks#0002
 * **flexingAndy** - *programming | sprite work* - [Keks](https://github.com/xKeks)
 
 See also the list of [contributors](https://github.com/xKeks/VanityContest/contributors) who participated in this project.
-
-## Acknowledgments
-
-* Template by [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-Since i was lazy aaaaa
