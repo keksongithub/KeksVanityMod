@@ -1,4 +1,4 @@
-# Ultimate Vanity Mod
+# Keks Vanity Mod
 
 This mod adds tons of vanity to the game, like console/mobile vanity, vanity from the community contest or own ideas suggested by the community specifically for this mod.
 Current Verison: v1.0.17
