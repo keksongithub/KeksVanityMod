@@ -1,6 +1,7 @@
 # Keks Vanity Mod
 
 This mod adds tons of new vanities to the game, like console/mobile vanity, vanity from the vanity community contest or own ideas suggested by the community specifically for this mod. Along with some of my own ideas.
+
 Current Verison: v1.0.17
 Last Updated 08.07.2020
 
@@ -12,8 +13,8 @@ Download it from the Modbrowser
 
 ## Problems with the Mod
 
-If you by any chance have problems with the mod contact me on Discord
-Keks#0002
+If you by any chance have problems with the mod contact me on discord
+keks#0001
 
 ## Built With
 
