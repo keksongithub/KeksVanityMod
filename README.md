@@ -2,7 +2,7 @@
 
 This mod adds tons of new vanities to the game, like console/mobile vanity, vanity from the vanity community contest or own ideas suggested by the community specifically for this mod. Along with some of my own ideas.
 
-Current Verison: v1.0.17
+Current Verison: v1.1.12
 
 Last Updated 08.07.2020
 
