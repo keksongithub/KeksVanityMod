@@ -16,7 +16,7 @@ Download it from the Modbrowser
 ## Problems with the Mod
 
 If you by any chance have problems with the mod contact me on discord
-keks#0001
+Keks#0002
 
 ## Built With
 
