@@ -1,3 +1,5 @@
+# This mod is currently not being worked on!
+
 # Keks Vanity Mod
 
 This mod adds tons of new vanities to the game, like console/mobile vanity, vanity from the vanity community contest or own ideas suggested by the community specifically for this mod. Along with some of my own ideas.
